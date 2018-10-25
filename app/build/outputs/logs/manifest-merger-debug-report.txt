@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/5af3ed2e93c70ccebf0a0f79ae69a6ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/a71aa316b337846a3238eb44863fffaf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/d44dc98d101b6f3d7a648f7d452195f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/18bdbea0f6707a5ef92de161890e8839/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/99398f870baa09a0628edc6853799268/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/57fdcf16d818a2ceff9e1fb4bb309642/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e676067d08345a5ac26d6aa02f9b70ef/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/asus/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/8d5ba833f77410ea941b256913a41f1a/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:2:11-55
+		INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml
+		ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:2:1-18:12
+		INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml
+		ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:2:1-18:12
+		INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:5:3-16:17
+	android:label
+		ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:7:5-37
+	android:icon
+		ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:6:5-39
+	android:theme
+		ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:8:5-36
+activity#com.sqisland.espresso.toolbartitle.MainActivity
+ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:9:5-15:16
+	android:name
+		ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:9:15-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:10:7-14:23
+action#android.intent.action.MAIN
+ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:11:9-60
+	android:name
+		ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:11:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:13:9-68
+	android:name
+		ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml:13:19-66
+uses-sdk
+INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml
+INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/5af3ed2e93c70ccebf0a0f79ae69a6ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/5af3ed2e93c70ccebf0a0f79ae69a6ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/a71aa316b337846a3238eb44863fffaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/a71aa316b337846a3238eb44863fffaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/d44dc98d101b6f3d7a648f7d452195f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/d44dc98d101b6f3d7a648f7d452195f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/18bdbea0f6707a5ef92de161890e8839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/18bdbea0f6707a5ef92de161890e8839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/99398f870baa09a0628edc6853799268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/99398f870baa09a0628edc6853799268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/57fdcf16d818a2ceff9e1fb4bb309642/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/57fdcf16d818a2ceff9e1fb4bb309642/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e676067d08345a5ac26d6aa02f9b70ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/asus/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e676067d08345a5ac26d6aa02f9b70ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/asus/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/8d5ba833f77410ea941b256913a41f1a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/asus/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/8d5ba833f77410ea941b256913a41f1a/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml
+INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml
+		ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml
+		ADDED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/asus/AndroidStudioProjects/Android_Espresso/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch04/04_01/Start/app/src/main/AndroidManifest.xml
